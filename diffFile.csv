@@ -1,0 +1,377 @@
+﻿新增,ADD,新增,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+促销申请人,Applicant,促销申请人,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+国家代码,Country Code,国家代码,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+中文名称,Country Name,中文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+英文名称,Country Name,英文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+用户姓名,User,用户姓名,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+员工姓名,Name,员工姓名,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+员工工号,User ID.,员工工号,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalAdd.vue
+subCustomerAbbreviation,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+subCustomerCode,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+promotionType,Promotion,促销类型,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+promotionActivityCode,Promotion No.,促销活动编码,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+promotionAbbreviation,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+explanation,Description,促销活动类型解释,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+productSKU,SKU No.,产品SKU,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+productName,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+list,List,list,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+country,Country,国家,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+startTimeFrom,Start Time,开始时间从,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+to,To,到,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+conflictSequence,Conflict No.,冲突序列,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+onlinePriceExposure,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+productSeriesModel,Factory Model.,产品系列型号,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SAPID,SAP ID,SAP ID,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+productStatus,Product Status,产品状态,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+startTime,Start Time,开始时间,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+endTime,End Time,结束时间,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+currency,Currency,币别,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+promotionPrice,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+discount,Discount,折扣,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+grossProfit1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+netProfit1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+salesVolumeForecast,Sales Volume Forecast,预测销量,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+salesAmountForecast,Sales Amount Forecast,预测销额,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SICurrency,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SIPrice,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SISupport,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SIQuantity,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+SIAmount,SI Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+grossProfit2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+netProfit2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+creator,Updater,更新人,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+createTime,Last Updated Time,更新时间,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+countryCode,Country,国家代码,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+countryName,Country Name,中文名称,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+countryNameEn,Country Name,英文名称,src\page\service\oms\activity\pages\IBUActivityDetailV2\IBUActivityDetailV2.vue
+修改,Edit,修改,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+促销申请人,Applicant,促销申请人,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+国家代码,Country,国家代码,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+中文名称,Country Name,中文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+英文名称,Country Name,英文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+用户姓名,User Name,用户姓名,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+员工姓名,Name,员工姓名,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+员工编码,User No.,员工编码,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\components\activityApplyModalModify.vue
+list,List,list,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+操作,Operation,操作,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+查看,View,查看,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+主客户名称,Customer Name.,主客户名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+主客户编码,Customer Code.,主客户编码,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+子客户名称,Sub Customer Name,子客户名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+促销申请人,Applicant,促销申请人,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+国家代码,Country,国家代码,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+中文名称,Country Name,中文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+英文名称,Country Name,英文名称,src\page\service\oms\activity\pages\IBUActivityApplyForAdminV2\IBUActivityApplyForAdminV2.vue
+基础信息,Basic Info.,基础信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+附件,Attachment,附件,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+促销信息,Promotion Details,促销信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+冲突,Conflict,冲突,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+线上价格露出,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+开始时间,Start Time,开始时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+结束时间,End Time,结束时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+币别,Currency,币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+促销价格,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+折扣,Discount,折扣,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+毛利1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+净利1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+销量预测,Est. Sales Volume,销量预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+销额预测,Est. Sales Amount,销额预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+SI币别,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+SI价格,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+SI支持,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+SI数量,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+SI金额,SI Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+毛利2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+净利2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\components\examineAndApproveAdd.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+客户编码,Customer Code,客户编码,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+客户名称,Customer Name,客户名称,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+子客户名称,Sub Customer Name,子客户名称,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+渠道大类,Channel Type,渠道大类,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+nameCountry,Country Name,nameCountry,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+areaName,Area,areaName,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+saleCountry,Sales Country,Sale Country,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+productSku,SKU,Product Sku,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+productSeriesModel,Factory Model,Factory Serial Model,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+marketingName,Product Name,Product Marketing Name,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+list,List,List,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+subCustomerCode,Sub Customer Code,Sub Customer Code,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+countryId,Country ID,Country,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+startDate,Start Date,Date From,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+required,Require,Required,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+endDate,End Date,Date End,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+productName,Product Name,Product Name,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+operation,Operation,operation,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+view,View,view,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+subCustomerCountry,Sub Customer Country,sub-customer Country,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+subCustomerName,Sub Customer Country Name,Sub Customer Name,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+lowestPromotionPrice,Lowest Promotion Price,Lowest Promotion Price,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+msrp Target Percent,MSRP Target Percent,msrp Target Percent,src\page\service\oms\activity\pages\IBUActivityCalenderV2\IBUActivityCalenderV2.vue
+基础信息,Baisc Info.,基础信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+附件,Attachment,附件,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+促销信息,Promotion Details,促销信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+冲突,Conflict,冲突,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+线上价格露出,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+开始时间,Start Time,开始时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+结束时间,End Time,结束时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+币别,Currency,币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+促销价格,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+折扣,Discount,折扣,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+毛利1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+净利1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+销量预测,Est. Sales Volume,销量预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+销额预测,Est. Sales Amount,销额预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+SI币别,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+SI价格,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+SI支持,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+SI数量,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+SI金额,Si Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+毛利2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+净利2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+查看变更记录,Check Change Record,查看变更记录,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+查看,View,查看,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\examineAndApproveModify.vue
+新增,Add,新增,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+冲突,Conflict,冲突,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+线上价格露出,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+开始时间,Start Time,开始时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+结束时间,End Time,结束时间,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+币别,Currency,币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+促销价格,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+折扣,Discount,折扣,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+毛利1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+净利1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+销量预测,Est. Sales Volume,销量预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+销额预测,Est. Sales Amount,销额预测,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+SI币别,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+SI价格,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+SI支持,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+SI数量,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+SI金额,Si Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+毛利2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+净利2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\components\historyModal.vue
+单据详情,Details,单据详情,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\IBUActivityExamineAndApproveAddV2.vue
+审批历史,Approval History,审批历史,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\IBUActivityExamineAndApproveAddV2.vue
+流程图,Flow Chart,流程图,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\IBUActivityExamineAndApproveAddV2.vue
+请先保存头信息,Please save header info.,请先保存头信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveAddV2\IBUActivityExamineAndApproveAddV2.vue
+子客户编码,Sub,子客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+客户编码,Customer Code,客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+客户名称,Customer Name,客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+子客户名称,Sub Customer Name,子客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+渠道大类,Channel Type,渠道大类,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+搜索,Search,搜索,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+活动基本信息维护,Basic Info. Maintain,活动基本信息维护,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+开始时间,Start Time,开始时间,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+结束时间,End Time,结束时间,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+促销活动编码,Promotion No.,促销活动编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+活动类型编码,Promotion Type Code,活动类型编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+活动说明,Promotion Description,活动说明,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+取消,Cancel,取消,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+确定,Confirm,确定,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+产品系列型号,Factory Model,产品系列型号,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+产品SKU,SKU,产品SKU,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+SAPID,SAP ID,SAPID,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\OmsActivityModal.vue
+单据详情,Details,单据详情,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\IBUActivityExamineAndApproveModifyV2.vue
+审批历史,Approval History,审批历史,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\IBUActivityExamineAndApproveModifyV2.vue
+流程图,Flow Chart,流程图,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\IBUActivityExamineAndApproveModifyV2.vue
+请先保存头信息,Please save header info. firstly,请先保存头信息,src\page\service\oms\activity\pages\IBUActivityExamineAndApproveModifyV2\IBUActivityExamineAndApproveModifyV2.vue
+基础信息,Basic Info.,基础信息,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+流程编号,Process Code,流程编号,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+单据类型,Process Type,单据类型,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+vat,VAT,vat,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+申请人,Applicant,申请人,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+日期范围,Date Range,日期范围,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+预计折扣金额/$,Est.. Discount Amount,预计折扣金额/$,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+促销预计销量/pcs,Est. Sales Volume,促销预计销量/pcs,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+促销预计销额/$,Est. Promotion Sales Amount,促销预计销额/$,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+线上净利1亏损促销/个,Net Profit 1 Loss Quantity,线上净利1亏损促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+预计亏损金额1RMB,Est. Loss Amount 1,预计亏损金额1RMB,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+线下净利2亏损促销/个,Net Profit 2 Loss Quantity,线下净利2亏损促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+预计亏损金额2RMB,Est. Loss Amount 2,预计亏损金额2RMB,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+备注,Remark,备注,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+单月超过14天促销/个,Promotion Quantity Over 14 days One Month,单月超过14天促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+线上渠道占比/%,Online Channels Proportion,线上渠道占比/%,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+线下渠道占比/%,Offline Channels Proportion,线下渠道占比/%,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+8折以下促销/个,Promotion Quantity Below 80%,8折以下促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+附件,Attachment,附件,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+促销信息,Promotion Details,促销信息,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+审批历史,Approval History,审批历史,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+流程图,Flow Chart,流程图,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+国家必填,Country Required,国家必填,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+日期必填,Date Required,日期必填,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+保存成功,Save Successfully,保存成功,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\IBUActivityPromotionAddV2.vue
+基础信息,Basic Info.,基础信息,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+流程编号,Process Code,流程编号,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+单据类型,Process Type,单据类型,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+原始流程编码,Ordinary Process Code,原始流程编码,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+流程编码,Process Code,流程编码,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+flowCode,Flow Code,flowCode,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+vat,VAT,vat,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+申请人,Applicant,申请人,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+日期范围,Date Range,日期范围,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+预计折扣金额变更/$,Est.. Discount Amount Change,预计折扣金额变更/$,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+促销预计销量变更/pcs,Est. Promotion Sales Volume Change,促销预计销量变更/pcs,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+促销预计销额变更/$,Est. Promotion Sales Amount,促销预计销额变更/$,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+总时长变更/天,Total Time Change,总时长变更/天,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+备注,Remark,备注,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+线上净利1亏损促销/个,Net Profit 1 Loss Quantity,线上净利1亏损促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+预计亏损金额1RMB,Est. Loss Amount 1,预计亏损金额1RMB,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+线下净利2亏损促销/个,Net Profit 2 Loss Quantity,线下净利2亏损促销/个,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+预计亏损金额2RMB,Est. Loss Amount 2,预计亏损金额2RMB,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+促销信息,Promotion Details,促销信息,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+流程图,Flow Chart,流程图,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+originFlowCode必填,Ordinary Process Code,originFlowCode必填,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+保存成功,Save Successfully,保存成功,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\IBUActivityPromotionModifyV2.vue
+list,List,list,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+国家,Country,国家,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+单据编号,Process Code,单据编号,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+单据类型,Process Type,单据类型,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+促销月份,Promotion Month,促销月份,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+申请人,Applicant,申请人,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+审批状态,Approval Status,审批状态,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+促销申请单编号,Promotion Application Code,促销申请单编号,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+原始申请单编号,Ordinary Promotion Application Code,原始申请单编号,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+国家代码,Country,国家代码,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+中文名称,中文名称,中文名称,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+英文名称,Country Name,英文名称,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+用户姓名,User,用户姓名,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+员工姓名,User,员工姓名,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+员工编码,User ID.,员工编码,src\page\service\oms\activity\pages\IBUActivityPromotionListV2\IBUActivityPromotionListV2.vue
+新增,Add,新增,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+删除,Delet,删除,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+导入,Import,导入,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+导出,Export,导出,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+保存,Save,保存,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+冲突序列,Conflict No.,冲突序列,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+线上价格露出,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+subCustomerCode,subCustomerCode,subCustomerCode,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+客户编码,Customer Code,客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+客户名称,Customer Name,客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+子客户名称,Sub Customer Name,子客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+渠道大类,Channel Type,渠道大类,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+产品系列型号,Factory Model,产品系列型号,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+产品SKU,SKU,产品SKU,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SAPID,SAP ID,SAPID,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SAP ID,SAP ID,SAP ID,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionType,Pormotion Type,promotionType,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionLevelCode,promotionLevelCode,promotionLevelCode,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionLevelName,promotionLevelName,promotionLevelName,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionName,promotionName,promotionName,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionTypeCode,promotionTypeCode,promotionTypeCode,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+promotionTypeShortName,promotionTypeShortName,promotionTypeShortName,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+Explanation,Explanation,Explanation,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+开始日期,Start Date,开始日期,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+结束日期,End Date,结束日期,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+币别,Currency,币别,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+促销价格,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+折扣率,Discount Ratio,折扣率,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+毛利1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+净利1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+销量预测,Est. Sales Volume,销量预测,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+销额预测,Est. Sales Amount,销额预测,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SI币别,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SI价格,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SI支持,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SI数量,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+SI金额,Si Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+毛利2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+净利2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+请选择要删除的行,Please select the delet line,请选择要删除的行,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+只能删除未提交的行,Only allow to delet the process not submitted,只能删除未提交的行,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+删除成功,Delet successfully,删除成功,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+开始时间大于结束时间,Start time earlier than end time,开始时间大于结束时间,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+请检查必填项目,Please check the required items,请检查必填项目,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+请检查必填项,Please check the required items,请检查必填项,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+保存成功,Save Successfully,保存成功,src\page\service\oms\activity\pages\IBUActivityPromotionAddV2\components\tableInfo.vue
+新增,Add,新增,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+删除,Delet,删除,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+导入,Import,导入,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+导出,Export,导出,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+保存,Save,保存,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+子客户编码,Sub Customer Code,子客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+子客户简称,Sub Customer ABBR.,子客户简称,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+促销类型,Promotion Type,促销类型,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+促销简称,Promotion ABBR.,促销简称,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+产品名称,Product Name,产品名称,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+冲突序列,Conflict No.,冲突序列,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+线上价格露出,Online Price Display,线上价格露出,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+subCustomerCode,subCustomerCode,subCustomerCode,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+客户编码,Customer Code,客户编码,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+客户名称,Customer Name,客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+子客户名称,Sub Customer Name,子客户名称,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+渠道大类,Channel Type,渠道大类,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+产品系列型号,Factory Model,产品系列型号,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+产品SKU,SKU,产品SKU,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SAPID,SAP ID,SAPID,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+产品状态,Status,产品状态,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SAP ID,SAP ID,SAP ID,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionType,promotionType,promotionType,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionLevelCode,promotionLevelCode,promotionLevelCode,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionLevelName,promotionLevelName,promotionLevelName,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionName,promotionName,promotionName,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionTypeCode,promotionTypeCode,promotionTypeCode,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+promotionTypeShortName,promotionTypeShortName,promotionTypeShortName,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+Explanation,Explanation,Explanation,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+开始日期,Start Date,开始日期,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+结束日期,End Date,结束日期,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+币别,Currency,币别,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+MSRP,MSRP,MSRP,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+促销价格,Promotion Price,促销价格,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+折扣率,Discount Ratio,折扣率,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+毛利1,Gross Profit 1,毛利1,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+净利1,Net Profit 1,净利1,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+销量预测,Est. Sales Volume,销量预测,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+销额预测,Est. Sales Amount,销额预测,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SI币别,SI Currency,SI币别,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SI价格,SI Price,SI价格,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SI支持,SI Support,SI支持,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SI数量,SI Quantity,SI数量,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+SI金额,Si Amount,SI金额,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+毛利2,Gross Profit 2,毛利2,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+净利2,Net Profit 2,净利2,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+请选择要删除的行,Please select the delet line,请选择要删除的行,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+只能删除未提交的行,Only allow to delet the process not submitted,只能删除未提交的行,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+删除成功,Delet successfully,删除成功,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+开始时间大于结束时间,Start time earlier than end time,开始时间大于结束时间,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+请检查必填项目,Please check the required items,请检查必填项目,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+请检查必填项,Please check the required items,请检查必填项,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
+保存成功,Save Successfully,保存成功,src\page\service\oms\activity\pages\IBUActivityPromotionModifyV2\components\tableInfo.vue
